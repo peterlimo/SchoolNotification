@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "617659816327",
+    "firebase_url": "https://schoolprojectx-30220-default-rtdb.firebaseio.com",
+    "project_id": "schoolprojectx-30220",
+    "storage_bucket": "schoolprojectx-30220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617659816327:android:77fa8c7d02f1bf17b15b22",
+        "android_client_info": {
+          "package_name": "com.supreme.supremedevs.college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617659816327-qfq1t62fe5eo72blbtiolm5niujiiop0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8EoVi-95wPRvgY5GrnX24igTy3cna1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617659816327-qfq1t62fe5eo72blbtiolm5niujiiop0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617659816327:android:28a42b0b111a5cb0b15b22",
+        "android_client_info": {
+          "package_name": "com.supreme.supremedevs.schoolnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617659816327-qfq1t62fe5eo72blbtiolm5niujiiop0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8EoVi-95wPRvgY5GrnX24igTy3cna1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617659816327-qfq1t62fe5eo72blbtiolm5niujiiop0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

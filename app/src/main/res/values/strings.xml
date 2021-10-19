@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gas Leakage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="editprofile">EditProfile</string>
+
+</resources>

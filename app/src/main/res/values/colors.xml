@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0786EC</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#FFF</color>
+
+    <!--Post card colors-->
+
+
+    <color name="blueish">#331178f5</color>
+
+    <color name="cardbackground">#cef2c5</color>
+
+    <color name="colWhite">#ffded1d5</color>
+
+
+</resources>
